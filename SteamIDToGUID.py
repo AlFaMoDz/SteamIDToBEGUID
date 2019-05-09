@@ -4,7 +4,6 @@
 # Author: AlFaMoDz | Twitter: @AlFaMoDzZ | GitHub: /alfamodz
 
 import sys
-import binascii
 from hashlib import md5
 
 
