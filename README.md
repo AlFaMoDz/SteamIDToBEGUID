@@ -7,4 +7,4 @@ SteamIDToGUID.py SteamID
 
 # Requirements
 
-- Python 3
+- Python 2
