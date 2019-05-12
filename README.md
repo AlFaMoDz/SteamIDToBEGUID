@@ -8,6 +8,11 @@ There are two ways to use it:
 - SteamIDToGUID.py [SteamID]
 - SteamIDToGUID.py [TextFile]
 
+# Example
+
+- SteamIDToGUID.py SteamIDs.txt
+- SteamIDToGUID.py 76561198254902994
+
 # Requirements
 
 - Python 2
