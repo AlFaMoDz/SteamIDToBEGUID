@@ -1,9 +1,12 @@
-# SteamIDToBEGUID
-Script written in python to transform a SteamID into a BattleEye GUID
+# Description
+
+This script written in python will allow you to convert SteamIDs into GUID for BattleEye.
 
 # Usage
 
-SteamIDToGUID.py SteamID
+There are two ways to use it: 
+- SteamIDToGUID.py [SteamID]
+- SteamIDToGUID.py [TextFile]
 
 # Requirements
 
